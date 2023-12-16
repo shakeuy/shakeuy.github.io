@@ -43,7 +43,7 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 #EXTINF:-1, tvg-id="VTVPlus.uy” tvg-name="VTV PLUS” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/640px-Logo_VTV_Plus_nuevo.png", VTV Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cabletruchouy-brso.streaming.media.azure.net/6df2ae37-2b54-4ac0-8585-13f6319bbc12/82792c86-b6cb-406c-9f24-c46da34f9d44.ism/manifest(format=mpd-time-cmaf).mpd
+https://12nbee8ta.s3.us-east-005.backblazeb2.com/hls/0/stream.m3u8
 
 #EXTINF:-1, tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TyC Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
