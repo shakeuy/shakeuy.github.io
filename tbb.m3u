@@ -898,16 +898,12 @@ https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
 https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd
 
 #EXTINF:-1, tvg-id="ElTrece.ar" tvg-name="El Trece" audio-track="1" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/7/79/Logotipo_de_El_Trece_%28Argentina%29.png/revision/latest?cb=20160423183448&path-prefix=es", El trece (Bs.As)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CbSkY7Ap68KKKIvtLacKdg","kid":"UXkBf0kybRSvCpzuyDGu5g"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1, tvg-id="Telefe.ar" tvg-name="Telefe HD" audio-track="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telefelogo2015.png", Telefe
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c064bba1e374e5a381dd0a344f11cec:a9d19bca012ae84a6cd0395a7a4809f2
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 https://edge-live01-bel.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
 
 #EXTINF:-1, tvg-id="Vorterix.ar" tvg-name="Vorterix" audio-track="1" tvg-logo="https://i.imgur.com/d7aBdwS.png", Vorterix
