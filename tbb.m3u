@@ -261,10 +261,7 @@ https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_2A/GEN_TV.mpd
 https://1016-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1, tvg-id="eventos4" tvg-name="eventos4", Eventos 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf4c78e21fe219ad4aa5429ae93d43be:26db38a968a1b65d7270ee92632a7ce1
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd
+https://e1.thetvapp.to/hls/TSN1.m3u8?token=WbVwnhmv_BnmgS22jnbGbQ&expires=1704079682
 
 #EXTINF:-1, tvg-id="eventos5" tvg-name="eventos5" audio-track="2", Eventos 5
 https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
