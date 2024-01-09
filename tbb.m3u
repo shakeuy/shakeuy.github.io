@@ -261,10 +261,12 @@ https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_2A/GEN_TV.mpd
 https://1016-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1, tvg-id="eventos4" tvg-name="eventos4", Eventos 4
-https://e1.thetvapp.to/hls/TSN1.m3u8?token=WbVwnhmv_BnmgS22jnbGbQ&expires=1704079682
+https://e5.thetvapp.to/hls/ESPNU.m3u8?token=2Qxs6bP8IOA_OywCdGK81A&expires=1704782003
 
 #EXTINF:-1, tvg-id="eventos5" tvg-name="eventos5" audio-track="2", Eventos 5
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTVLCOPT:http-referrer=https://r.dofustream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0
+https://r.dofustream.com/hd/stream/channel/3/chunks.m3u8
 
 #EXTINF:0, tvg-id="eventos6" tvg-name="eventos6" external, Eventos 6
 https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
