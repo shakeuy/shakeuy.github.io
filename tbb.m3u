@@ -189,10 +189,10 @@ https://dtvott-bpk-bpk.akamaized.net/dash_live_1259/manifest.mpd
 
 #EXTINF:-1, tvg-id="NFLNETWORK.us" tvg-name="NFL Network" tvg-logo="https://static.wikia.nocookie.net/collegefootballmania/images/a/a7/NFL_Network.jpg", NFL Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ThAAbYF2WPSYNPkPJYH3xQ","k":"WTV34_XfyuQhooPuz9TgdQ"},{"kty":"oct","kid":"mw2dTtO1UsSymGxR33XzKQ","k":"2NAMXmyISzoWYLFEa351tQ"},{"kty":"oct","kid":"xLfsWfpSVcWna3iwdLy56g","k":"WjUw0E3svr-TWShVp7f6_Q"},{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"},{"kty":"oct","kid":"1iKe18IIWHWD17TviUrWmw","k":"eCW_Gi4QOaoNxeRbVTZhjg"}]}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-023/stream.mpd?p=web|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://dce-ak-livedazn.akamaized.net/dashdrm/dazn-linear-023/stream.mpd?p=web|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, tvg-id="NFLREDZONE.us" tvg-name="NFL RedZone" tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/urcgb91h8b4jl6a7dnnq", NFL RedZone
 https://e5.thetvapp.to/hls/NFLRedZone.m3u8?token=R8awmxgLazutdrpp90-89A&expires=1695598313
