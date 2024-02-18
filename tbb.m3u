@@ -754,7 +754,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd
 http://g3.mc-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1, tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/512px-The_Weather_Channel_logo_2005-present.svg.png", The Weather Channel
-https://afcchampionship.000webhostapp.com/wea.php
+https://propropen.000webhostapp.com/wea.php
 
 #EXTINF:-1, tvg-id="CNNenEspanol.us" tvg-name="CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/400px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png", CNN En Español
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -763,35 +763,16 @@ https://afcchampionship.000webhostapp.com/wea.php
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd
 
-#EXTINF:-1, tvg-id="CNNChile.us" tvg-name="CNN Chile" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ae802b642eeeaf23cc_cnnchile.png", CNN Chile
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{ "kty":"oct", "k":"ugrNV6WhQ2Tb7daD8KZqEQ", "kid":"r++n2KzCUg+UeeHKN9mbxg" },{ "kty":"oct", "k":"++o9Vovfr/foZZgJIH6S8A", "kid":"d4IhDYhoWPKqdRtWQqUMCg" },{ "kty":"oct", "k":"agItMXLLGOIZvPOFZqH2Bw", "kid":"QilU8I11XHuN6GPyHAS8Cw" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tvup-ccpv2-live.secure2.footprint.net/cnnchile/cnnchile.mpd
-
 #EXTINF:-1, tvg-id="CNNInternationalLatinAmerica.us" tvg-name="CNN International Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/300px-CNN_International_logo.svg.png", CNN (Int.)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="FoxNewsChannel.us" tvg-name="FoxNewsChannel.us" tvg-logo="https://i.imgur.com/FJihT0Q.png", FOX News
-#EXTVLCOPT:http-referrer=https://www.newslive.com/featured/fox-news.html
+#EXTVLCOPT:http-referrer=https://www.livenewsnow.com/featured/foxnews.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0
-https://afcchampionship.000webhostapp.com/fnews.php
+https://propropen.000webhostapp.com/fnc.php
 
 #EXTINF:-1, tvg-id="ABCNews.us" tvg-name="ABC News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png", ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1, tvg-id="WNYW.us" tvg-name="FOX New York HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/WNYWlogo.jpg/1280px-WNYWlogo.jpg", FOX (WNYW)
-https://v-ny.mybtv.net/live/550.m3u8
-
-#EXTINF:-1, tvg-id="WABC.us" tvg-name="ABC New York HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png", ABC (WABC)
-https://v-ny.mybtv.net/live/554.m3u8
-
-#EXTINF:-1, tvg-id="WNBC.us" tvg-name="NBC New York HD" tvg-logo="https://alchetron.com/cdn/wnbc-f90f1bc1-f620-429a-933f-469f7f4b63c-resize-750.jpg", NBC (WNBC)
-https://v-ny.mybtv.net/live/548.m3u8
-
-#EXTINF:-1, tvg-id="WCBS.us" tvg-name="CBS New York HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/WCBS-TV_2_logo.png/215px-WCBS-TV_2_logo.png", CBS (WCBS)
-https://v-ny.mybtv.net/live/545.m3u8
 
 #EXTINF:-1, tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://cdn.mitvstatic.com/channels/br_bbc-news_m.png", BBC World News
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
