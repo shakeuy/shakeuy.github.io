@@ -751,11 +751,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd
 
-#EXTINF:-1, tvg-id="CMElCanaldelaMusica.ar" tvg-name="CM El Canal de la Música" audio-track="1" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-de-la-musica_m.png", El Canal de la Musica
-#EXTVLCOPT:http-referrer=http://vmf.edge-apps.net/embed/live.php?streamname=CM_CanaldelaMusica-100044&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0
-http://g3.mc-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
-
 #EXTINF:-1, tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/512px-The_Weather_Channel_logo_2005-present.svg.png", The Weather Channel
 #EXTVLCOPT:http-referrer=https://www.livenewsnow.com/featured/weather-channel.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0
@@ -790,11 +785,8 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #KODIPROP:inputstream.adaptive.license_key=019f72f2091d4cbea59ff8c85b117f86:a4eac51195506752f9f63ad24def9c37
 https://edge7-ccast-sl.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd
 
-#EXTINF:-1, tvg-id="Azteca7MexicoCity.mx" tvg-name="Azteca 7 Mexico City" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", Azteca 7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce8f86d2f0d1638574237ada8ac2e82a:642772ebf1832f1f2fa58cb7e8fcfd05
-https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
+#EXTINF:-1, tvg-id="FOROTV.mx" tvg-name="FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", Foro TV México
+https://channel02.akamaized.net/hls/live/2023914/event01/index.m3u8
 
 #EXTINF:-1, tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png", Caracol
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -803,22 +795,14 @@ https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://b42944.4.cdn.telefonica.com/_42944/sdash/LIVE$CaracolHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=LiveL-M
 
-#EXTINF:-1, tvg-id="RamplaJrs" tvg-name="RamplaJrs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Teletrece_%28Logo_2019%29.png", T13 Chile
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{ "kty":"oct", "k":"Lwg/joVoKHLD+fjOdfn89w", "kid":"1WYteWLWWQ6XFnDDm2uGMQ" },{ "kty":"oct", "k":"XJGA4BWIzA2tVJT1VUAv1A", "kid":"5S9VgPDyXeqnFBu/yKmhRw" },{ "kty":"oct", "k":"9S5fCNm0Y6mRxophBseEFA", "kid":"UiZPw7pZWaKAvHVx4Th8Hg" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tvup-ccpv2-live.secure2.footprint.net/t13vivo/t13vivo.mpd
+#EXTINF:-1, tvg-id="RamplaJrs" tvg-name="RamplaJrs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Teletrece_%28Logo_2019%29.png", T13 Noticias Chile
+https://propropen.000webhostapp.com/tutuv.php?v=K-HzgNqLFTk
 
 #EXTINF:-1, tvg-id="24Horas.cl" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/24_Horas_TVN_logo.png", 24 Horas Chile
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+https://propropen.000webhostapp.com/tutuv.php?v=Wubs8vmB_bs
 
 #EXTINF:-1, tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="https://i.imgur.com/5Xluhyl.png", TVN Chile
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1de580fc43359de9ac86a01917886a6:29d423551a394919fe5117dad76ec4b2
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://dtvott-abc.akamaized.net/dash_live_1221/manifest.mpd
+https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8
 
 #EXTINF:-1, tvg-id="ChileVision.cl" tvg-name="ChileVisión" tvg-logo="https://i.imgur.com/GAsSUqn.png", ChileVisión
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -828,11 +812,7 @@ https://dtvott-abc.akamaized.net/dash_live_1221/manifest.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/chilevisionhd/chilevisionhd.mpd
 
 #EXTINF:-1, tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="https://cdn.mitvstatic.com/channels/cl_mega_m.png", Mega Chile
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{ "kty":"oct", "k":"KldNY2WyokAhif80C9pFhw", "kid":"KJOw83DWX6iDSKS9gXpEZQ" },{ "kty":"oct", "k":"GCKxFnAu5gExqRJNaoe3Mw", "kid":"2X8O52NmWYq5WxRW2TmvBw" },{ "kty":"oct", "k":"u6UuOd5Bdjp33NsCCqklnA", "kid":"5eoHv0twWYGPPrz1V/X9Ng" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tvup-ccpv2-live.secure2.footprint.net/megahd/megahd.mpd
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://i.imgur.com/SYGV0j6.jpg", Canal 13 Chile
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -851,10 +831,10 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://edge7-ccast-sl.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd
 
 #EXTINF:-1, tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png", France 24 Español
-https://afcchampionship.000webhostapp.com/tutuv.php?v=Y-IlMeCCtIg
+https://propropen.000webhostapp.com/tutuv.php?v=Y-IlMeCCtIg
 
 #EXTINF:-1, tvg-id="France24English.fr" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png", France 24 English
-https://afcchampionship.000webhostapp.com/tutuv.php?v=tkDUSYHoKxE
+https://propropen.000webhostapp.com/tutuv.php?v=tkDUSYHoKxE
 
 #EXTINF:-1, tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-logo="https://photos.live-tv-channels.org/tv-logo/de-dw.jpg", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -897,10 +877,9 @@ https://edge-live01-bel.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/Te
 
 #EXTINF:-1, tvg-id="Vorterix.ar" tvg-name="Vorterix" audio-track="1" tvg-logo="https://i.imgur.com/d7aBdwS.png", Vorterix
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OfoGg27A+B2N2bbgGjBw4w","kid":"6r4sIjUMJsfwrYSzSTLwjQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3
+https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd
 
 #EXTINF:-1, tvg-id="C5N.ar" tvg-name="C5N" audio-track="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG", C5N
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
