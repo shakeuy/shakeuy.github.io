@@ -44,7 +44,7 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1, tvg-id="VTVPlus.uy” tvg-name="VTV PLUS” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/640px-Logo_VTV_Plus_nuevo.png", VTV Plus
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://pull-hls-l1-act.hypstarcdn.com/activity/stream-2420555039018844188/playlist.m3u8
+https://pull-hls-l1-act.hypstarcdn.com/activity/stream-2420554979293003804/playlist.m3u8
 
 #EXTINF:-1, tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TyC Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
