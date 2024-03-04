@@ -42,6 +42,12 @@ https://edge-live12-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Cana
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 #EXTINF:-1, tvg-id="VTVPlus.uy” tvg-name="VTV PLUS” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/640px-Logo_VTV_Plus_nuevo.png", VTV Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=da8a49a594160cc0059f07b9f71cd39a:37ca91dd799b351a02445151c7f61070
+https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd
+
+#EXTINF:-1, tvg-id="Cerrolargoo” tvg-name="Cerrolargoo” tvg-logo="https://pbs.twimg.com/profile_images/1694685234036396032/mWHelFdQ_400x400.jpg", Partidos futbol uruguayo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://pull-hls-l1-act.hypstarcdn.com/activity/stream-2420554979293003804/playlist.m3u8
