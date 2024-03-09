@@ -50,7 +50,7 @@ https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mp
 #EXTINF:-1, tvg-id="Cerrolargoo” tvg-name="Cerrolargoo” tvg-logo="https://pbs.twimg.com/profile_images/1694685234036396032/mWHelFdQ_400x400.jpg", Partidos futbol uruguayo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://pull-hls-l1-act.hypstarcdn.com/activity/stream-2420554979293003804/playlist.m3u8
+https://dsm8.short.gy/pcDtWv
 
 #EXTINF:-1, tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TyC Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
