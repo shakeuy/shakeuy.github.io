@@ -126,6 +126,13 @@ https://edge-live15-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/Fo
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd
 
+#EXTINF:-1, tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png", FOX Deportes (USA)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vmXlmF-gSkmvMQ8KkqAmCg","k":"Gstf97Db_fGcTcoaq_qqEQ"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd
+
 #EXTINF:-1, tvg-id="Golf.Channel.(Latin.America).(GOLF).ar tvg-name="Golf Channel Latin America" tvg-logo="https://dcom-prod.imgix.net/files/logos/golf_channel.png", Golf Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -216,9 +223,10 @@ https://954b5418d1bd.us-west-2.playback.live-video.net/api/video/v1/us-west-2.06
 
 #EXTINF:-1, tvg-id="DAZNLaLiga.es" tvg-name="DAZN LaLiga" tvg-logo="https://megatelevisionhd.com/img/daznlaliga.png", DAZN LaLiga (España)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd?p=web|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Q9HDslIH_ziyLM_hfTAjZw","k":"ex-F9ugQWUc7EUwWolyCmg"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #EXTINF:-1, tvg-id="DAZNF1.es" tvg-name="DAZN F1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png", DAZN Formula 1 (España)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
