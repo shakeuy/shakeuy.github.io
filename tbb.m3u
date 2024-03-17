@@ -60,22 +60,24 @@ https://edge-live12-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyC
 
 #EXTINF:-1, tvg-id="1604dtv.ar" tvg-name="ESPN Premium AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png", ESPN Premium Argentina
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-https://edge-live12-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"TCMNvH9qS_pq0Kpz_3kjdA","k":"QYanwqFfWQqTmYhv6uxCVw"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://edge-live11-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
 #EXTINF:-1, tvg-id="TNT.Sports.HDTV.(TNTSP).ar" tvg-name="TNT Sports HD Argentina" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png", TNT Sports Argentina
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-https://edge-live12-hr.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vID6PaaW5QP5QP3l9oGhxQ","k":"6kbk6fETLo3XH7d_fVUFig"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://edge-live01-bel.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
 #EXTINF:-1, tvg-id="tntsports.cl" tvg-name="TNT Sports Chile" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png", TNT Sports Chile
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Mgduj0idcq4IR-syVs6tHQ","kid":"uUr354epW_C32Dj7NPJ4Qg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"G5mE3GayWf6K5ZfLT8H0ww","k":"_7U6lPSPSZVGhpwfnodxhw"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
+https://1071-abc-da-mt.dtvott.com/dash_live_1232/manifest.mpd
 
 #EXTINF:-1, tvg-id="1621dtv.ar" tvg-name="ARG | ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png", ESPN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -127,11 +129,7 @@ https://edge-live15-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/Fo
 https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd
 
 #EXTINF:-1, tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png", ESPN Deportes (USA)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vmXlmF-gSkmvMQ8KkqAmCg","k":"Gstf97Db_fGcTcoaq_qqEQ"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-"https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd"
+https://mcdn.mrgaminghoster.xyz/espnd.m3u8
 
 #EXTINF:-1, tvg-id="Golf.Channel.(Latin.America).(GOLF).ar tvg-name="Golf Channel Latin America" tvg-logo="https://dcom-prod.imgix.net/files/logos/golf_channel.png", Golf Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -168,31 +166,28 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 https://vpsf1.com:8080/https://imgmt.cdn.iutpcdn.com/bpk-tv/tp1448/clear/index.m3u8
 
 #EXTINF:-1, tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://www.lyngsat.com/logo/tv/aa/afizzionados-mx.png", Afizzionados (MX)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5/R+K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://channel-afizzionados-cdn.blim.com/manifest.mpd
+https://gtechtecnologia.com/telelatino/play/30.m3u8
 
 #EXTINF:-1, tvg-id="DirecTVSportsArgentina.ar" tvg-name="DirecTV Sports Argentina" tvg-logo="https://pbs.twimg.com/media/DtHUf6VXgAAdm9I.png", DirecTV Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fa59463176f3dc2964b91b4f7ae1d7c:81d5b95cc9057d6b0f85c78e6f0e41e7
-https://1059-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=3e1c0dd8d951335d9d8c534d29277c91:978f073eee32606a3f2544306fb1a7b3
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://1059-vos-da-mt.dtvott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1059/DASH/manifest.mpd
 
 #EXTINF:-1, tvg-id="DirecTVSports2.us" tvg-name="DirecTV Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png", DirecTV Sports 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab020a1710d630168de21698375a439c:235898cdb10b0cdba35ea2ce94fbb1fb
+#KODIPROP:inputstream.adaptive.license_key=c44d52b11dce3875ad2765c9d469075b:af4ba31c1324eb92ac88463f7bd941d5
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://1063-vos.dtvott.com/DASH/manifest.mpd
+https://1063-vos-da-mt.dtvott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1063/DASH/manifest.mpd
 
 #EXTINF:-1, tvg-id="DirecTVSportsPlus.us" tvg-name="DirecTV Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png", DirecTV Sports +
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8Zw6jGONUsKrd7lWa8splg","k":"dACp-QXxctXXTX3EQHJMjg"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://1071-abc-da-bpk.dtvott.com/f9028faec74be6ec7b3fbb0638dde28a/dtv-tv/dash_live_1071/manifest.mpd
+https://1071-abc-da-mt.dtvott.com/dash_live_1071/manifest.mpd
 
 #EXTINF:-1, tvg-id="DirecTVSportsFight.us" tvg-name="DirecTV Sports Fight" tvg-logo="https://i.imgur.com/mIsBUOW.png", DirecTV Sports Fight
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -230,22 +225,24 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 
 #EXTINF:-1, tvg-id="DAZNF1.es" tvg-name="DAZN F1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png", DAZN Formula 1 (España)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"EGG-EtMDJHQm7CXoNpsmRw","k":"vWIrDmECld47C8y4UMyqqg"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 #EXTINF:-1, tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1 Spain" tvg-logo="https://i.imgur.com/9A63D4g.png", DAZN 1 (España)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RN2c03CwioaOrRFf6E7P3g","k":"v_GasKUc8U6Eg4mxUpE_0A"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
 #EXTINF:-1, tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2 Spain" tvg-logo="https://i.imgur.com/BevbzGm.png", DAZN 2 (España)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DqtaPz47S6XULUDKMNF1cQ","k":"8_Bh3tm3DoFgWQ1YAuzabQ"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
 #EXTINF:-1, tvg-id="chiring" tvg-name="chiring" tvg-logo="https://pbs.twimg.com/media/EFjKImLXoAAy8ko.jpg", El Chiringuito De Jugones
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
