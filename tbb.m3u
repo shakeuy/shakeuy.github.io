@@ -160,13 +160,25 @@ https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_2A/America_
 https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_2A/PX_Sports.mpd
 
 #EXTINF:-1, tvg-id="CLAROSPORTS.uy" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png", Claro Sports
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
+https://dai.google.com/linear/hls/pa/event/t5TzXj8rQTCKAEpUMbP9_Q/stream/920cf0be-fa34-4123-8477-b4dbaad5b8a0:SCL/master.m3u8
+
+#EXTINF:-1, tvg-id="TUDN.us" tvg-name="TUDN USA" tvg-logo="https://corporate.univision.com/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png", TUDN (EEUU)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://deporte.lat/846105/univision?ch=tudn
 
 #EXTINF:-1, tvg-id="TUDNMexico.mx" tvg-name="TUDN Mexico" tvg-logo="https://corporate.univision.com/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png", TUDN (MX)
-https://vpsf1.com:8080/https://imgmt.cdn.iutpcdn.com/bpk-tv/tp1448/clear/index.m3u8
+https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://www.lyngsat.com/logo/tv/aa/afizzionados-mx.png", Afizzionados (MX)
 https://gtechtecnologia.com/telelatino/play/30.m3u8
+
+#EXTINF:-1, tvg-id="FoxSportsPremium.mx" tvg-name="FOX Sports Premium México" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/foxsportsmx/logos/3p-logo._CB636858411_.png", FOX Sports Premium (MX)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf4c78e21fe219ad4aa5429ae93d43be:26db38a968a1b65d7270ee92632a7ce1
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd
 
 #EXTINF:-1, tvg-id="DirecTVSportsArgentina.ar" tvg-name="DirecTV Sports Argentina" tvg-logo="https://pbs.twimg.com/media/DtHUf6VXgAAdm9I.png", DirecTV Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -794,8 +806,16 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #KODIPROP:inputstream.adaptive.license_key=019f72f2091d4cbea59ff8c85b117f86:a4eac51195506752f9f63ad24def9c37
 https://edge7-ccast-sl.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd
 
-#EXTINF:-1, tvg-id="FOROTV.mx" tvg-name="FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", Foro TV México
+#EXTINF:-1, tvg-id="FOROTV.mx" tvg-name="FORO TV" tvg-logo="https://i.ytimg.com/vi/m6VOx-RfPlc/hq720.jpg", Foro TV México
 https://channel02.akamaized.net/hls/live/2023914/event01/index.m3u8
+
+#EXTINF:-1, tvg-id="Canal5.mx" tvg-name="Canal 5 México" tvg-logo="https://logosandtypes.com/wp-content/uploads/2020/11/Channel-5-Mexico.png", Canal 5 México
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+
+#EXTINF:-1, tvg-id="UnivisionEast.us" tvg-name="Univision East" tvg-logo="https://www.elnuevoherald.com/ultimas-noticias/d5nt1t/picture246909672/alternates/FREE_1140/univision%20logo.jpg", Univisión EEUU
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
 #EXTINF:-1, tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png", Caracol
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
