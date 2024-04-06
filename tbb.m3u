@@ -226,7 +226,9 @@ https://e5.thetvapp.to/hls/NFLRedZone.m3u8?token=R8awmxgLazutdrpp90-89A&expires=
 https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd
 
 #EXTINF:-1, tvg-id="MovistarLaLiga.es" tvg-name="Movistar LaLiga" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-laliga-es.png", LaLiga por M+ (España)
-https://954b5418d1bd.us-west-2.playback.live-video.net/api/video/v1/us-west-2.067246364203.channel.xauxhxnS0ycB.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dhkn.alemanmx.online/live/11_selfies.m3u8
 
 #EXTINF:-1, tvg-id="DAZNLaLiga.es" tvg-name="DAZN LaLiga" tvg-logo="https://megatelevisionhd.com/img/daznlaliga.png", DAZN LaLiga (España)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
