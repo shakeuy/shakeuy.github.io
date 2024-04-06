@@ -228,7 +228,7 @@ https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd
 #EXTINF:-1, tvg-id="MovistarLaLiga.es" tvg-name="Movistar LaLiga" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-laliga-es.png", LaLiga por M+ (España)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://dhkn.alemanmx.online/live/11_selfies.m3u8
+https://pull-hls-l1-act.hypstarcdn.com/activity/stream-2420728683612340252/playlist.m3u8
 
 #EXTINF:-1, tvg-id="DAZNLaLiga.es" tvg-name="DAZN LaLiga" tvg-logo="https://megatelevisionhd.com/img/daznlaliga.png", DAZN LaLiga (España)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -277,7 +277,7 @@ https://edge-live31-hr.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/E
 https://cdnxm.bigsoto.lol/live5/live5_sourc.m3u8
 
 #EXTINF:-1, tvg-id="eventos3" tvg-name="eventos3", Eventos 3
-https://bvsat02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+https://bp1.mrgaminghoter.xyz/copa.m3u8
 
 #EXTINF:-1, tvg-id="eventos4" tvg-name="eventos4", Eventos 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
