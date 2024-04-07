@@ -52,7 +52,7 @@ https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://dhkn.alemanmx.online/live/13_selfies.m3u8
+https://gh8bm.alemanmx.online/jeinz/uruguay_englasnd.m3u8
 
 #EXTINF:-1, tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TyC Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
