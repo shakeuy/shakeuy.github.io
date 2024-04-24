@@ -274,21 +274,23 @@ https://afcchampionship.000webhostapp.com/tw.php?id=elchiringuitotv
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd
 
 #EXTINF:-1, tvg-id="eventos2" tvg-name="eventos2", Eventos 2
-https://4647.global.ssl.fastly.net/hls/live/2015933/stream_qtz4jmewtudemfrw17xs58c2r/1713726552103/master.m3u8
-
-#EXTINF:-1, tvg-id="eventos3" tvg-name="eventos3", Eventos 3
-https://bp1.mrgaminghoter.xyz/copa.m3u8
-
-#EXTINF:-1, tvg-id="eventos4" tvg-name="eventos4", Eventos 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6362e1f36fcb7ee3c47debd9140336ad:9ba1d46c5b9c7a3130a5dabbf7155175
-https://chromecast.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd
+#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd
+
+#EXTINF:-1, tvg-id="eventos3" tvg-name="eventos3", Eventos 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MWCgvnmt959RElbZlwwzVA","k":"2BIBXNL1jzeW-VL53QCcLw"},{"kty":"oct","kid":"pmB05WcHHR5unEQL4FCspg","k":"SV52AHJA0MZTrpby9mqNKA"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://qn-55555-gru01-1-01-1---7069-rfuw.http.global.dns.qwilted-cds.cqloud.com/Content/Channel/SPOFSTHD/dsc2/manifest.mpd
+
+#EXTINF:-1, tvg-id="eventos4" tvg-name="eventos4", Eventos 4
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 
 #EXTINF:-1, tvg-id="eventos5" tvg-name="eventos5" audio-track="2", Eventos 5
-#EXTVLCOPT:http-referrer=https://r.dofustream.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0
-https://r.dofustream.com/hd/stream/channel/3/chunks.m3u8
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 
 #EXTINF:0, tvg-id="eventos6" tvg-name="eventos6" external, Eventos 6
 https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
