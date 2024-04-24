@@ -276,8 +276,8 @@ https://edge-live31-hr.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/E
 #EXTINF:-1, tvg-id="eventos2" tvg-name="eventos2", Eventos 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=538368e93bb3449bb5822688e86d4dec:013ea040309e706222c8e707751c1753
+https://mcgo2.boldmss.com/FOX_SPORTS_2/FOX_SPORTS_2_MC.isml/FOX_SPORTS_2_MC.mpd
 
 #EXTINF:-1, tvg-id="eventos3" tvg-name="eventos3", Eventos 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
